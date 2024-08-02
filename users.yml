@@ -1,0 +1,9 @@
+users:
+  - id: 4
+    first_name: "jag"
+    last_name: "desh"
+    email: "dummy@dummy.local"
+  - id: 5
+    first_name: "Harvey"
+    last_name: "Dent"
+    email: "harveydent@dummy.local"
